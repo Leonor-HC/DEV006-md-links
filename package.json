@@ -6,7 +6,7 @@
   },
   "scripts": {
     "start": "node index.js",
-    "test": "jest"
+    "test": "jest --verbose --coverage"
   },
   "bootcamp": {
     "createdAt": "2023-05-17T14:36:24.002Z",
